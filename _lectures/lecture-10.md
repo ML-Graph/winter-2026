@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2025-02-10
-title: Artificial Neural Network 3 <br> 
+date: 2026-02-11
+title: Graph
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/lecture8-ANN.pdf)
+- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec10-Graph1.pdf)
