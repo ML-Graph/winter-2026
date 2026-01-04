@@ -6,3 +6,4 @@ hide_from_announcments: true
 ---
 **Topics:**
 - Lecture 1 - Lecture 8
+- Closed Book
