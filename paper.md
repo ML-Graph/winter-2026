@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Paper
-permalink: /paper/
+title: Presentation
+permalink: /presentation/
 ---
 
 ## Paper Presentation Details
