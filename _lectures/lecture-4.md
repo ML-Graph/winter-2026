@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2025-01-15
-title: Understanding of Data 3 <br> 
+date: 2025-01-14
+title: Classification <br> Decision Tree
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/UnderstandingData2.pdf)
+- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec4-Classification2.pdf)
