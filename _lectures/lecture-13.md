@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-02-23
-title: Spatial
+title: Spatial <br> Cloud Point
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
