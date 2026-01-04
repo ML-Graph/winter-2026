@@ -4,7 +4,8 @@ title: Project
 permalink: /project/
 ---
 
-The project may be completed either individually or as a team; both approaches are acceptable. For team-based projects, only one team member should submit the final report and clearly specify all contributing teammates.
+The project may be completed either individually or as a team; both approaches are acceptable. For team-based projects, only one team member should submit the final report and clearly specify all contributing teammates. Bonus Points will apply if you consider doing projects in the following fields with (*) or any domain beyond the following:
+
 
 ### 1. Background and Problem Formulation - 10%
 - **Background - 5%**: 
@@ -44,7 +45,6 @@ The project may be completed either individually or as a team; both approaches a
 - **Feeling of this class - 5%**: 
   - Feeling of this class.
 
-Bonus Points will apply if you consider doing projects in the following fields with (*) or any domain beyond the following:
 
 ## * Infrastructure Mining and Machine Learning
 - Water/Power/Gas network
