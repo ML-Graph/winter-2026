@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-01-12
-title: Classification <br> KNN/Naive Bayes/Decision-Tree <br> 
+title: Classification <br> KNN/Naive Bayes/Decision-Tree
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
