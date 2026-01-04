@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-14
+date: 2026-01-14
 title: Classification <br> Decision Tree
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
