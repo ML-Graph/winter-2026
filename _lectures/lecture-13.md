@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-02-23
-title: Spatial <br> Cloud Point
+title: Spatial <br> Cloud Point Mining
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
