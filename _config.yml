@@ -1,0 +1,52 @@
+# Site settings
+course_name: Data Mining
+course_description: "Welcome to the fascinating field of data mining, a discipline at the intersection of computer science, statistics, and intelligence! Throughout this course, we’ll explore various data mining techniques, from regression to classification to clustering to association analysis. You’ll learn how to prepare data, select appropriate algorithms, and interpret results. Real-world examples and case studies will illustrate the practical applications of data mining across diverse industries."
+course_semester: "Winter-2025"
+
+baseurl: "/winter-2025" # the subpath of your site, e.g. /blog/
+url: "http://ML-Graph.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Department of Computer Science, University of Oregon"
+schoolurl: "https://scds.uoregon.edu/cs"
+twitter_username: username 
+
+address: |
+    University of Oregon
+    Department of Computer Science
+    Eugene, Oregon
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

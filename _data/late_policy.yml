@@ -1,0 +1,4 @@
+policies:
+  - 20% reduction, if submitting within (0, 24) hours late
+  - 40% reduction, if submitting within [24, 48) hours late
+  - 100% reduction, if submitting within [48, ∞) hours late, unless having documental special circumstances

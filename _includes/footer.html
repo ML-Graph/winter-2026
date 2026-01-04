@@ -1,0 +1,35 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <!-- <h2 class="footer-heading">{{ site.schoolname }}</h2> -->
+    <div class="footer-col-wrapper" style="display: flex; justify-content: space-between; align-items: center;">
+      
+      <!-- Left: University Information -->
+      <div class="footer-col footer-col-1" style="flex: 1; text-align: left; display: flex; align-items: center;">
+        <p class="text">
+          {% if site.schoolurl %}
+          <a href="{{ site.schoolurl }}">
+            <i class="fas fa-globe" style="color:gray"></i> {{ site.schoolurl | remove: "https://" | remove: "http://" | remove: "www." }}
+          </a>
+          {% endif %}
+        </p>
+      </div>
+
+
+      <!-- Right: Twitter -->
+      <div class="footer-col footer-col-3" style="flex: 1; text-align: right; display: flex; align-items: center; justify-content: flex-end;">
+        <ul class="social-media-list" style="list-style: none; margin: 0; padding: 0;">
+          {% if site.twitter_username %}
+          <li style="display: inline;">
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fab fa-twitter" style="color:gray"></i> {{ site.twitter_username }}
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+</footer>

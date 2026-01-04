@@ -1,0 +1,24 @@
+items:
+- url: /
+  name: Syllabus
+  icon_class: fa fa-home fa-lg
+
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
+
+- url: /paper/
+  name: Paper
+  icon_class: fas fa-book-reader
+
+- url: /project/
+  name: Project
+  icon_class: fas fa-project-diagram
+
+- url: /materials/
+  name: Materials
+  icon_class: fas fa-book
+
+- url: /grade/
+  name: Grade
+  icon_class: fas fa-pencil-ruler

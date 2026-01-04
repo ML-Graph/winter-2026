@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<!--     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1> -->
+    <br>
+    <img src="{{ site.baseurl }}/_images/frontpage.jpg" alt="graphs">
+    
+<!--     {% include announcements.html %} -->
+
+    <h2>Course Description</h2>
+<!--     <p>{{ site.course_description }}</p> -->
+    <p>Welcome to the fascinating field of data mining, a discipline at the intersection of computer science, statistics, and intelligence! Throughout this course, we’ll explore various data mining techniques, from regression to classification to clustering to association analysis. You’ll learn how to prepare data, select appropriate algorithms, and interpret results. Real-world examples and case studies will illustrate the practical applications of data mining across diverse industries.</p>
+
+    <p>Students will complete two quizzes, a team-based (optional) course project and paper presentation.</p>
+    <p> Coding notebooks will be provided when necessary for some important topics.</p>
+    
+    {{ content }}
+
+<!--     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+    <h2>Previous Offerings</h2>
+    <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    {% endfor %}
+    </ul>
+    {% endif %} -->
+
+    <h2>Lectures</h2>
+    Monday/Wednesday, 10:00-11:20 pm, 166 LA
+    <br>
+    <br>
+
+    <h2>Office Hours</h2>
+    Instructor: <a href="https://uoregon.zoom.us/j/4052006678">Zoom Meeting</a>
+    <ul>
+    <li>Friday 4:00-5:00 pm</li>
+    <li>M/W After each class 11:20-12:00 pm</li>
+    </ul>
+    <br>
+    <br>
+    
+    <div>
+        <div style="width:35%; float: left">
+            <!-- <h2>Instructors</h2> -->
+            <!-- <div class="image--cover-container">
+                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                <p>{{site.data.people.instructor.name}}</p>
+            </div> -->
+
+            <div class="profile-pic-gallary ">
+                <h2>Instructors</h2>
+                {% for ins in site.data.people.instructors %}
+                <div class="image--cover-container">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div style="width:65%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ta.webpage %}
+                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    {% else %}
+                    <p>{{ta.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+<!-- 
+    <h2>Course Textbook</h2>
+    No textbook is required for this course. Any required reading materials will be provided throughout the semester on this website. Below are some optional reading materials if you are interested:
+    <br>
+    <ul>
+        <li><a href="https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4">Introduction to Data Mining</a></li>
+        <li><a href="https://bugs.python.org/file47781/Tutorial_EDIT.pdf">PyTorch</a></li> 
+        <li><a href="https://pytorch-geometric.readthedocs.io/en/latest/">PyTorch-Geometric</a></li>
+    </ul>
+
+     -->
+    <h2>Acknowledgement</h2>
+    Note that some of the lectures of this course are borrowed or adapted from the following:
+    <ul>
+    <li>Introduction to Data Mining, Vipin Kumar at University of Minnesota</li>
+    </ul>
+    
+</div>
