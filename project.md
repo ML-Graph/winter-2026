@@ -4,6 +4,8 @@ title: Project
 permalink: /project/
 ---
 
+The project may be completed either individually or as a team; both approaches are acceptable. For team-based projects, only one team member should submit the final report and clearly specify all contributing teammates.
+
 ### 1. Background and Problem Formulation - 10%
 - **Background - 5%**: 
   - What is the general background of the problem you are working on?
