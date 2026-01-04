@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-12
+date: 2026-01-12
 title: Classification <br> KNN/Naive Bayes
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
