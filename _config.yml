@@ -1,9 +1,9 @@
 # Site settings
 course_name: Data Mining
 course_description: "Welcome to the fascinating field of data mining, a discipline at the intersection of computer science, statistics, and intelligence! Throughout this course, we’ll explore various data mining techniques, from regression to classification to clustering to association analysis. You’ll learn how to prepare data, select appropriate algorithms, and interpret results. Real-world examples and case studies will illustrate the practical applications of data mining across diverse industries."
-course_semester: "Winter-2025"
+course_semester: "Winter-2026"
 
-baseurl: "/winter-2025" # the subpath of your site, e.g. /blog/
+baseurl: "/winter-2026" # the subpath of your site, e.g. /blog/
 url: "http://ML-Graph.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Department of Computer Science, University of Oregon"
