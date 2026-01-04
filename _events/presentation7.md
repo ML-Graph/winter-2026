@@ -7,3 +7,4 @@ hide_from_announcments: true
 **Group**
 - Group 13: 7-7:15 pm
 - Group 14: 7:15-7:30 pm
+- [Zoom](https://uoregon.zoom.us/j/4052006678)
