@@ -8,3 +8,4 @@ links:
 ---
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec3-Classification1.pdf)
+- [Codes](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec3-KNN.ipynb)
