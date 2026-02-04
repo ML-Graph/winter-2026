@@ -8,4 +8,4 @@ links:
 ---
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec8-NN2.pdf)
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Midterm Review.pdf)
+- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Midterm-Review.pdf)
