@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-03-02T16:0:0
+date: 2026-03-02T
 description: 'Presentation 6'
 hide_from_announcments: true
 ---
