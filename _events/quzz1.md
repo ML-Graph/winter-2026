@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2026-02-09T16:0:0
+date: 2026-02-09T
 description: 'Quzz 1'
 hide_from_announcments: true
 ---
