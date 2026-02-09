@@ -4,6 +4,8 @@ title: Project
 permalink: /project/
 ---
 
+Please see a sampled project report from [here](https://ml-graph.github.io/winter-2025/static_files/Federated_Learning_for_Document_Classification.pdf) 
+
 The project may be completed either individually or as a team; both approaches are acceptable. For team-based projects, only one team member should submit the final report and clearly specify all contributing teammates. Bonus Points will apply if you consider doing projects in the following fields with (*) or any domain beyond the following:
 
 
