@@ -7,4 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec15-Language1.pdf)
+- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec14-Language Mining.pdf)
