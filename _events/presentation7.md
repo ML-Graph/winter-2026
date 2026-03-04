@@ -1,7 +1,7 @@
 ---
 type: raw_event
 date: 2026-03-04T
-description: 'Presentation 6'
+description: 'Presentation 7'
 hide_from_announcments: true
 ---
 **Group**
