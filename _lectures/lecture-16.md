@@ -9,3 +9,4 @@ links:
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec14-LanguageMining.pdf)
 - [Codes](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec14-rnn_transformer.ipynb)
+- [Video](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec14-LanguageModeling-LLM.mp4)
