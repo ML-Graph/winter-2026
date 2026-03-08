@@ -8,4 +8,5 @@ links:
 ---
 **Course Materials:**
 - [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec15-Final review.pdf)
+- [Video](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec15-final_review_video.mp4)
 
